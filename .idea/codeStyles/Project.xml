@@ -1,0 +1,189 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <DB2CodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+      <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+      <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+      <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+      <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+      <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+      <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    </DB2CodeStyleSettings>
+    <DerbyCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+      <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+      <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+      <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+      <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+      <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+      <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    </DerbyCodeStyleSettings>
+    <H2CodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+    </H2CodeStyleSettings>
+    <HSQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+    </HSQLCodeStyleSettings>
+    <JSCodeStyleSettings version="0">
+      <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+      <option name="FORCE_SEMICOLON_STYLE" value="true" />
+      <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+      <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    </JSCodeStyleSettings>
+    <JavaCodeStyleSettings>
+      <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+    </JavaCodeStyleSettings>
+    <MSSQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+      <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+      <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+      <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+      <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+      <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+      <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    </MSSQLCodeStyleSettings>
+    <MySQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+      <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+      <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+      <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    </MySQLCodeStyleSettings>
+    <OracleCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+      <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+      <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+      <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+      <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+      <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+      <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    </OracleCodeStyleSettings>
+    <PostgresCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+      <option name="ROUTINE_PG_L_QUOTE_WRAP_BEFORE" value="false" />
+      <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+      <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+      <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+      <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+      <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+      <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    </PostgresCodeStyleSettings>
+    <SQLiteCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+    </SQLiteCodeStyleSettings>
+    <SqlCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+      <option name="ROUTINE_PG_L_QUOTE_WRAP_BEFORE" value="false" />
+      <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+      <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+      <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+      <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+      <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+      <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    </SqlCodeStyleSettings>
+    <SybaseCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="ROUTINE_ARG_WRAP" value="0" />
+      <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+      <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+      <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+      <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+      <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+      <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    </SybaseCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="WRAP_ON_TYPING" value="0" />
+      <arrangement>
+        <groups>
+          <group>
+            <type>GETTERS_AND_SETTERS</type>
+            <order>KEEP</order>
+          </group>
+          <group>
+            <type>OVERRIDDEN_METHODS</type>
+            <order>KEEP</order>
+          </group>
+          <group>
+            <type>DEPENDENT_METHODS</type>
+            <order>BREADTH_FIRST</order>
+          </group>
+        </groups>
+      </arrangement>
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+      <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+      <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+      <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+      <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
